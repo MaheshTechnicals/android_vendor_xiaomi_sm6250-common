@@ -1304,6 +1304,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
     CACertService \
+    IFAAService \
     CneApp \
     IWlanService \
     TimeService \
